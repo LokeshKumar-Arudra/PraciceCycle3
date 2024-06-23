@@ -1,0 +1,2 @@
+we use git add fileName to stage a file and only git add to stage all the files in the working directory
+after staging if we made any changes to the file we just need to follow 2 steps 1. use git commit -m message in quotes and 2. use (git push) command in the terminal. This will upload your local commits to the remote repository
